@@ -1,3 +1,69 @@
+TaskHive Pro - Project Summary
+TaskHive Pro is a modern task management system designed to optimize team productivity through real-time updates and AI-driven automation.
+
+🚀 Key Modules
+Authentication Module: Secure Admin/Member login with email validation to ensure authorized access.
+
+Task Management: Real-time status updates using AJAX, allowing users to manage tasks without page reloads.
+
+Team Collaboration: Admin-led team creation and management for streamlined task delegation.
+
+AI Assistant (Gemini API): Integrated AI chatbot to generate tasks dynamically based on user prompts.
+
+File Attachment System: Secure file storage system for tasks with support for multiple formats (PDF, DOC, JPG, etc.).
+
+Advanced Filtering: Robust search and filter functionality to categorize tasks by status, priority, and category.
+
+🛠 Tech Stack
+Framework: Laravel 12
+
+Frontend: Tailwind CSS
+
+Database: MySQL
+
+Integration: Google Gemini API, AJAX, Storage API
+
+📋 Project Testing & Validation
+The system has undergone rigorous testing, ensuring:
+
+Data integrity via form validation (e.g., email format checks).
+
+User-safety via deletion confirmation alerts.
+
+High performance through asynchronous data processing.
+<img width="1920" height="1080" alt="Screenshot (274)" src="https://github.com/user-attachments/assets/851e9446-ec19-4efd-8bd5-5c16eeec38b6" />
+
+<img width="1920" height="1080" alt="register png" src="https://github.com/user-attachments/assets/0ce3bee6-8cc7-4dd2-9398-54670482e356" />
+<img width="960" height="394" alt="landing png" src="https://github.com/user-attachments/assets/28c303a0-f6ce-4314-bcdb-560f818a3e71" />
+<img width="1920" height="1080" alt="dashboard png" src="https://github.com/user-attachments/assets/f408cff1-3598-471b-bf56-2dbb3dcc337e" />
+<img width="1920" height="1080" alt="createtask png" src="https://github.com/user-attachments/assets/a9dc6246-e9da-4018-807a-41ccede0ae01" />
+<img width="1920" height="1080" alt="teams png" src="https://github.com/user-attachments/assets/a330649c-2874-4805-8fac-0163b820269a" />
+<img width="1920" height="1080" alt="tasks png" src="https://github.com/user-attachments/assets/1234f484-c56c-4e42-99f9-da106e96abd5" />
+<img width="1920" height="1080" alt="Screenshot (303)" src="https://github.com/user-attachments/assets/2b9103e0-c151-43da-a366-41da056a5ee9" />
+<img width="1920" height="1080" alt="Screenshot (302)" src="https://github.com/user-attachments/assets/656d7989-7031-4aed-beec-3b690a288580" />
+<img width="1920" height="1080" alt="Screenshot (301)" src="https://github.com/user-attachments/assets/5d295262-58b0-41c1-a7df-62807446289d" />
+<img width="1920" height="1080" alt="Screenshot (300)" src="https://github.com/user-attachments/assets/ecef7e36-6d4e-4af7-9d56-792c62edd9bb" />
+<img width="1920" height="1080" alt="Screenshot (298)" src="https://github.com/user-attachments/assets/18c71ed2-5a30-4347-9915-058500659fb4" />
+<img width="1920" height="1080" alt="Screenshot (297)" src="https://github.com/user-attachments/assets/8f95c26a-2474-4cd2-9e07-b2dddecabd25" />
+<img width="1920" height="1080" alt="Screenshot (296)" src="https://github.com/user-attachments/assets/c082bdc4-9909-49bb-8a39-fa21c8fc8840" />
+<img width="1920" height="1080" alt="Screenshot (291)" src="https://github.com/user-attachments/assets/df8dbdc2-aee6-4640-8c0e-77af7d5457bf" />
+<img width="1920" height="1080" alt="Screenshot (290)" src="https://github.com/user-attachments/assets/eeac7a81-a8c0-46e4-835e-4ccb571c7cbf" />
+<img width="1920" height="1080" alt="Screenshot (289)" src="https://github.com/user-attachments/assets/437d438c-54d7-44c6-955a-ddd731ead5ec" />
+<img width="1920" height="1080" alt="Screenshot (288)" src="https://github.com/user-attachments/assets/d053ce4a-a45d-4827-a737-bf5c2a8c0d0b" />
+<img width="1920" height="1080" alt="Screenshot (287)" src="https://github.com/user-attachments/assets/6a276edc-38bf-4fa3-9d15-2cacb47e8c34" />
+<img width="1920" height="1080" alt="Screenshot (286)" src="https://github.com/user-attachments/assets/91814acf-d7b2-4636-8431-501ef6305675" />
+<img width="1920" height="1080" alt="Screenshot (285)" src="https://github.com/user-attachments/assets/5fc297b9-492e-4aa4-81bd-63daf6a69e51" />
+<img width="1920" height="1080" alt="chatbot png" src="https://github.com/user-attachments/assets/c33f31b2-7efd-4dd1-ae7b-5379a4ca0073" />
+
+
+
+
+
+
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
